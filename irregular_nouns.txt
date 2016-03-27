@@ -1,0 +1,138 @@
+man men 
+woman women 
+fireman firemen 
+foot feet 
+goose geese 
+tooth teeth 
+mouse mice 
+louse lice 
+child children 
+ox oxen 
+auto autos 
+kangaroo kangaroos 
+kilo kilos 
+memo memos 
+photo photos 
+piano pianos 
+pimento pimentos 
+pro pros 
+con cons 
+solo solos soli 
+soprano sopranos 
+studio studios 
+tattoo tattoos 
+video videos 
+zoo zoos 
+bamboo bamboos 
+echo echoes 
+embargo embargoes 
+hero heroes 
+potato potatoes 
+tomato tomatoes 
+torpedo torpedoes 
+veto vetoes 
+negro negroes 
+buffalo buffalos buffaloes buffalo 
+cargo cargos cargoes 
+halo halos haloes 
+mosquito mosquitos mosquitoes 
+motto mottos mottoes 
+no nos noes 
+tornado tornados tornadoes 
+volcano volcanos volcanoes 
+zero zeros zeroes 
+commando commands commandoes 
+cod cod 
+deer deer 
+fish fish 
+offspring offspring 
+perch perch 
+sheep sheep 
+trout trou 
+bison bison 
+moose moose 
+aircraft aircraft 
+barracks barracks 
+crossroads crossroads 
+dice dice 
+gallows gallows 
+headquarters headquarters 
+means means 
+series series 
+species species
+alga algae 
+amoeba amoebae amoebas 
+antenna antennae antennas 
+formula formulae formulas 
+larva larvae 
+nebula nebulae nebulas 
+vertebra vertebrae vertebras 
+alumna alumnae 
+beau beaux beaus 
+bureau bureaux bureaus 
+tableau tableaux tableaus 
+plateau plateaux plateaus 
+corpus corpora 
+genus genera 
+alumnus alumni 
+bacillus bacilli 
+cactus cacti cactuses 
+focus foci 
+fungus fungi funguses 
+nucleus nuclei 
+octopus octopi octopuses 
+radius radii radiuses 
+stimulus stimuli 
+syllabus syllabi syllabuses 
+terminus termini 
+hippopotamus hippopotami 
+genius genii geniuses 
+abacus abaci abacuses 
+addendum addenda 
+bacterium bacteria 
+curriculum curricula curriculums 
+datum data 
+erratum errata 
+medium media 
+memorandum memoranda memorandums 
+ovum ova 
+stratum strata stratums 
+symposium symposia symposiums 
+agendum agenda 
+vacuum vacua vacuums 
+gymnasium gymnasia 
+stadium stadia stadiums 
+forum forums 
+minimum minima 
+ultimatum ultimata ultimatums 
+apex apices apexes 
+appendix appendices appendixes 
+cervix cervices cervixes 
+index indices indexes 
+matrix matrices matrixes 
+vortex vortices vortexes 
+analysis analyses 
+axis axes 
+basis bases 
+crisis crises 
+diagnosis diagnoses 
+emphasis emphases 
+hypothesis hypotheses 
+neurosis neuroses 
+oasis oases 
+parenthesis parentheses 
+synopsis synopses 
+thesis theses 
+ellipsis ellipses 
+synthesis syntheses 
+criterion criteria 
+phenomenon phenomena 
+automaton automata 
+libretto libretti 
+tempo tempi 
+virtuoso virtuosi virtuosos 
+concerto concerti 
+cherub cherubim 
+seraph seraphim 
+schema schemata 
+stigma stigmata 
